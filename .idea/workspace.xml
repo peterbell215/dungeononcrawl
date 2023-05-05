@@ -12,10 +12,13 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5144f0f0-453b-4890-a2f5-317438e5cb9c" name="Changes" comment="Adding config files">
-      <change afterPath="$PROJECT_DIR$/src/map_builder.rs" afterDir="false" />
+    <list default="true" id="5144f0f0-453b-4890-a2f5-317438e5cb9c" name="Changes" comment="Added rooms.">
+      <change afterPath="$PROJECT_DIR$/src/camera.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/map.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map_builder.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/map_builder.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/player.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/player.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +82,8 @@
       <updated>1681064595444</updated>
       <workItem from="1681064599811" duration="3354000" />
       <workItem from="1681847547502" duration="2408000" />
-      <workItem from="1682914287265" duration="2268000" />
+      <workItem from="1682914287265" duration="7071000" />
+      <workItem from="1683266508704" duration="1147000" />
     </task>
     <task id="LOCAL-00001" summary="Added walking player">
       <created>1681070915399</created>
@@ -95,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681070990181</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added rooms.">
+      <created>1682916652307</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682916652307</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,7 +115,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added walking player" />
     <MESSAGE value="Adding config files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding config files" />
+    <MESSAGE value="Added rooms." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added rooms." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
